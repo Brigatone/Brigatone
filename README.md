@@ -1,9 +1,12 @@
 ## Hello, I'm Brighton!
 
-I am a Computer Science Major working on my A.A. and bachelors at a local college.
+I am a Computer Science Major working on my A.A. and Bachelors degree at a local college.
+
 I program in C++ for both educational and personal development.
 
-You can reach me at:
+
+You can reach me here:
+
 [Email](mailto:brightonedmu@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/brightonedmundson/)
 
